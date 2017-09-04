@@ -1,0 +1,13 @@
+#GIT opdracht
+								| FEMKE 	| 		EVELIEN
+
+1) typ hier je lievelingskleur	|			|
+
+commit naar master
+
+2) typ hier je geboorteplaats   |			|
+
+commit naar master
+
+3) Voeg nog een kolom toe van iemand die je kent en commit deze naar branch1
+
