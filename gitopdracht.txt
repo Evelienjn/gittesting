@@ -7,7 +7,7 @@ commit naar master
 
 2) typ hier je geboorteplaats   |	Vlissingen		|	Alkmaar
 
-3) typ hier je lievelingskoekje |				|  butter lemon cookies
+3) typ hier je lievelingskoekje |fair trade chocolate bla				|  butter lemon cookies
 
 commit naar master
 
