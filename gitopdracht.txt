@@ -1,15 +1,15 @@
 #GIT opdracht
-								| FEMKE 	| 		EVELIEN
-
-1) typ hier je lievelingskleur	|	Rood 	 |    Paars
+								| FEMKE 	| 		EVELIEN			| John
+	
+1) typ hier je lievelingskleur	|	Rood 	 |    Paars				| Geel
 
 commit naar master
 
-2) typ hier je geboorteplaats   |	Vlissingen		|	Alkmaar
+2) typ hier je geboorteplaats   |	Vlissingen		|	Alkmaar		| Ijmuiden
 
-3) typ hier je lievelingskoekje |fair trade chocolate bla				|  butter lemon cookies
+3) typ hier je lievelingskoekje |fair trade chocolate bla				|  butter lemon cookies | koekjes zijn vies
 
 commit naar master
 
 3) Voeg nog een kolom toe van iemand die je kent en commit deze naar branch1
-:
+
