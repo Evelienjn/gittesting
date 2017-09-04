@@ -1,15 +1,15 @@
 #GIT opdracht
-								| FEMKE 	| 		EVELIEN			| John
+								| FEMKE 	| 		EVELIEN			| John    |  Maria
 	
-1) typ hier je lievelingskleur	|	Rood 	 |    Paars				| Geel
+1) typ hier je lievelingskleur	|	Rood 	 |    Paars				| Geel | Communistisch rood
 
 commit naar master
 
-2) typ hier je geboorteplaats   |	Vlissingen		|	Alkmaar		| Ijmuiden
+2) typ hier je geboorteplaats   |	Vlissingen		|	Alkmaar		| Ijmuiden | Leningrad
 
-3) typ hier je lievelingskoekje |fair trade chocolate bla				|  butter lemon cookies | koekjes zijn vies
+3) typ hier je lievelingskoekje |fair trade chocolate bla				|  butter lemon cookies | koekjes zijn vies | een paar kruimels, want iedereen hetzelfde
 
 commit naar master
 
-3) Voeg nog een kolom toe van iemand die je kent en commit deze naar branch1
+3) Voeg nog een kolom toe van iemand die je kent en commit deze naar
 
